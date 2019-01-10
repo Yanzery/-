@@ -1,0 +1,186 @@
+--------------------------------
+ The execute number:0 
+
+ **** 当前正在运行的进程是:A
+ qname 	 state 	 ndtime 	 runtime 
+| A 	| R 	| 4 	    | 0 	 
+
+ ****当前就绪队列状态为:
+--------------------------------
+ The execute number:1 
+
+ **** 当前正在运行的进程是:B
+ qname 	 state 	 ndtime 	 runtime 
+| B 	| R 	| 1 	    | 0 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| A 	| w 	| 4 	    | 1 	 
+
+ 进程 [B] 已完成.
+--------------------------------
+ The execute number:2 
+
+ **** 当前正在运行的进程是:A
+ qname 	 state 	 ndtime 	 runtime 
+| A 	| R 	| 4 	    | 1 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+--------------------------------
+ The execute number:3 
+
+ **** 当前正在运行的进程是:A
+ qname 	 state 	 ndtime 	 runtime 
+| A 	| R 	| 4 	    | 2 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| D 	| w 	| 2 	    | 0 	 
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+--------------------------------
+ The execute number:4 
+
+ **** 当前正在运行的进程是:A
+ qname 	 state 	 ndtime 	 runtime 
+| A 	| R 	| 4 	    | 3 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| D 	| w 	| 2 	    | 0 	 
+
+ qname 	 state 	 ndtime 	 runtime 
+| E 	| w 	| 4 	    | 0 	 
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+
+ 进程 [A] 已完成.
+--------------------------------
+ The execute number:5 
+
+ **** 当前正在运行的进程是:D
+ qname 	 state 	 ndtime 	 runtime 
+| D 	| R 	| 2 	    | 0 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| E 	| w 	| 4 	    | 0 	 
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+--------------------------------
+ The execute number:6 
+
+ **** 当前正在运行的进程是:D
+ qname 	 state 	 ndtime 	 runtime 
+| D 	| R 	| 2 	    | 1 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| E 	| w 	| 4 	    | 0 	 
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+
+ 进程 [D] 已完成.
+--------------------------------
+ The execute number:7 
+
+ **** 当前正在运行的进程是:E
+ qname 	 state 	 ndtime 	 runtime 
+| E 	| R 	| 4 	    | 0 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+--------------------------------
+ The execute number:8 
+
+ **** 当前正在运行的进程是:E
+ qname 	 state 	 ndtime 	 runtime 
+| E 	| R 	| 4 	    | 1 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+--------------------------------
+ The execute number:9 
+
+ **** 当前正在运行的进程是:E
+ qname 	 state 	 ndtime 	 runtime 
+| E 	| R 	| 4 	    | 2 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+--------------------------------
+ The execute number:10 
+
+ **** 当前正在运行的进程是:E
+ qname 	 state 	 ndtime 	 runtime 
+| E 	| R 	| 4 	    | 3 	 
+
+ ****当前就绪队列状态为:
+
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| w 	| 5 	    | 0 	 
+
+ 进程 [E] 已完成.
+--------------------------------
+ The execute number:11 
+
+ **** 当前正在运行的进程是:C
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| R 	| 5 	    | 0 	 
+
+ ****当前就绪队列状态为:
+--------------------------------
+ The execute number:12 
+
+ **** 当前正在运行的进程是:C
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| R 	| 5 	    | 1 	 
+
+ ****当前就绪队列状态为:
+--------------------------------
+ The execute number:13 
+
+ **** 当前正在运行的进程是:C
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| R 	| 5 	    | 2 	 
+
+ ****当前就绪队列状态为:
+--------------------------------
+ The execute number:14 
+
+ **** 当前正在运行的进程是:C
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| R 	| 5 	    | 3 	 
+
+ ****当前就绪队列状态为:
+--------------------------------
+ The execute number:15 
+
+ **** 当前正在运行的进程是:C
+ qname 	 state 	 ndtime 	 runtime 
+| C 	| R 	| 5 	    | 4 	 
+
+ ****当前就绪队列状态为:
+
+ 进程 [C] 已完成.
+
+
+ 进程已经完成.
